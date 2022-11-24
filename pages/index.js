@@ -11,7 +11,6 @@ import web1 from "../public/web1.jpg";
 import web2 from "../public/web2.jpg";
 import web3 from "../public/web3.jpg";
 import web4 from "../public/web4.png";
-import web5 from "../public/work-inprogress.png";
 import { useState } from "react";
 
 export default function Home() {
@@ -102,7 +101,7 @@ export default function Home() {
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:border-2 border-blue-500">
               <Image src={react} width={100} height={100} />
               <h3 className="py-4 text-blue-600 font-bold">React Developer</h3>
-              <h4 className="text-green-600 font-bold">Udemy course</h4>
+              <h4 className="text-green-600 font-bold">Udemy</h4>
             </div>
 
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:border-2 border-blue-500 ">
