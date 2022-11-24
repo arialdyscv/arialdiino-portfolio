@@ -10,7 +10,7 @@ import scfund from "../public/csf.png";
 import web1 from "../public/web1.jpg";
 import web2 from "../public/web2.jpg";
 import web3 from "../public/web3.jpg";
-import web4 from "../public/web4.png";
+import web4 from "../public/Web4.png";
 import { useState } from "react";
 
 export default function Home() {
